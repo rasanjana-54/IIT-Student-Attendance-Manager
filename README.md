@@ -1,2 +1,18 @@
-# IIT-Student-Attendance-Manager
-A Python console-based Student Management and Attendance System for IIT Campus. It allows enrolling students, viewing and updating details, and marking attendance with date tracking. Built using Python dictionaries and validation checks, it helps manage student records efficiently in a simple, menu-driven interface.
+## Features
+- Enroll new students
+- View student details
+- Update student information
+- Mark attendance
+- View attendance by date range
+
+## How to Run
+1. Install Python
+2. Run: python new.py
+
+## Technologies
+- Python
+- Dictionary data structures
+- Date handling
+
+## Author
+Rasanajana
